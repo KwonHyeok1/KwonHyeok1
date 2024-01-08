@@ -2,7 +2,7 @@
 <br>
 <a href = "https://github.com/KwonHyeok1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonHyeok1&count_bg=%23000000&title_bg=%230000FF&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"></a>
 <a href="https://www.porsche.com/korea/ko/modelstart/all/?modelrange=cayenne"><img src="https://img.shields.io/badge/Porsche-B12B28?style=flat-square&logo=Porsche&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instargram&logoColor=white"/>
+<a href="https://www.instagram.com/not_umbro_im_ugro/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instargram&logoColor=white"/></a>
 <br>
 <br>
 <b>Studying</b>
