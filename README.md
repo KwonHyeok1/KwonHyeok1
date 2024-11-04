@@ -1,11 +1,20 @@
 <p align="center">
-  <h1 align="center">권혁 Portfolio ✨</h1>
+  <h1 align="center">권혁 포트폴리오 ✨</h1>
 
   <p align="center">
-안녕하세요, 풀스택 개발자를 목표로 하고 있는 신입 개발자 권혁입니다. 
-저는 Java와 Spring Framework를 활용한 백엔드 개발을 주로 다루며, HTML, CSS, JavaScript 등의 기술을 활용해 UI를 구현하고 개선한 경험이 있습니다. 그리고 SQL과 Python을 사용해 데이터 처리와 분석을 수행한 경험도 있습니다. 다양한 프로젝트를 통해 요구사항 분석부터 서버 프로그램 구현, 테스트까지의 개발 과정을 팀원들과 원활히 소통하며 수행할 실력을 갖추고 있습니다.
+포기하지않고 끝까지 나아가는 사람
+JAVA 백엔드 개발자 권혁입니다.
   </p>
-  
+
+## 프로필 ⭐️
+- 1999년 3월 21일
+
+## 훈련과정 🍪
+
+-양정인력개발센터 JAVA정보처리과정 수료 (2022년 2월)
+-IT특화 자바 백엔드 웹 개발자 양성 수료 (2023년 5월)
+-인공지능 빅 데이터 분석 수료 (2023년 7월)
+
 <b>권혁</b>
 <br>
 <a href = "https://github.com/KwonHyeok1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonHyeok1&count_bg=%23000000&title_bg=%230000FF&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"></a>
